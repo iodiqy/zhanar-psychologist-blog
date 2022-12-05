@@ -10,15 +10,15 @@
 [[social]]
 identifier = "github"
 name = "github"
-url = "https://google.com/CaiJimmy/hugo-theme-stack"
+url = "https://api.whatsapp.com/send/?phone=77051818628&text&type=phone_number&app_absent=0"
 
 [social.params]
 icon = "brand-whatsapp"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/zhanar.psycholog/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-instagram"

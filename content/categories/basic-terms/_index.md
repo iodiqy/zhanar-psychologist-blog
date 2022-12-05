@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Базовые понятия
 description: A description of this category
 image:
 
